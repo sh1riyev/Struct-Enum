@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/bin/Debug/net6.0/Sealed-Struct-Enum-Nullable
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/bin/Debug/net6.0/Sealed-Struct-Enum-Nullable.deps.json
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/bin/Debug/net6.0/Sealed-Struct-Enum-Nullable.runtimeconfig.json
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/bin/Debug/net6.0/Sealed-Struct-Enum-Nullable.dll
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/bin/Debug/net6.0/Sealed-Struct-Enum-Nullable.pdb
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.dll
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/refint/Sealed-Struct-Enum-Nullable.dll
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.pdb
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/Sealed-Struct-Enum-Nullable.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Sealed-Struct-Enum-Nullable/Sealed-Struct-Enum-Nullable/obj/Debug/net6.0/ref/Sealed-Struct-Enum-Nullable.dll
